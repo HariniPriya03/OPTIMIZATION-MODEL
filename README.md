@@ -31,21 +31,21 @@ Each candle requires a certain amount of wax and labor hours, both of which are 
 
 -	Wax needed per candle:
 
-   -	Scented = 3 units
+     -	Scented = 3 units
 
-   -  Unscented = 2 units
+     -  Unscented = 2 units
 
 -	Labor hours required per candle:
 
-   - 	Scented = 2 hours
+     - 	Scented = 2 hours
 
-   -	Unscented = 1 hour
+     -	Unscented = 1 hour
 
 -	Available resources:
 
-   -	Wax = 60 units
+     -	Wax = 60 units
 
-   -	Labor = 40 hours
+     -	Labor = 40 hours
 
 The goal is to find the optimal number of each candle type to produce in order to maximize total profit, while not exceeding available wax and labor.
 
@@ -80,9 +80,9 @@ We formulated a Linear Programming model with:
 
 -	`Constraints`:
 
-   -	Total wax used must not exceed 60 units.
+     -	Total wax used must not exceed 60 units.
 
-   -	Total labor used must not exceed 40 hours.
+     -	Total labor used must not exceed 40 hours.
 
 The model is solved using PuLP’s built-in solver. The solution includes:
 
