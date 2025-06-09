@@ -1,7 +1,16 @@
 # OPTIMIZATION-MODEL
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: G. HARINI PRIYA
 
+*INTERN ID*: CT04DN652
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 ## Candle Production Optimization using Linear Programming (PuLP)
 
