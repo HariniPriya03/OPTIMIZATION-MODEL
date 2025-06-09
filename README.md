@@ -25,9 +25,9 @@ Each candle requires a certain amount of wax and labor hours, both of which are 
 
 -	Profit per unit:
  
-   -	Scented = ₹5
+     -	Scented = ₹5
    
-   -  Unscented = ₹3
+     -  Unscented = ₹3
 
 -	Wax needed per candle:
 
